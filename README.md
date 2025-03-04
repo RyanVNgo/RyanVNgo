@@ -1,9 +1,11 @@
 ## Hi, I'm Ryan Ngo 😐
 
-<img 
-  align="right"
-  width="250em"
-  src="https://spotify-github-profile.kittinanx.com/api/view?uid=cheesyburrito&cover_image=true&theme=default&show_offline=false&background_color=2e2e2e&interchange=false&bar_color=53b14f&bar_color_cover=false">
+<picture>
+  <img 
+    align="right"
+    width="250em"
+    src="https://spotify-github-profile.kittinanx.com/api/view?uid=cheesyburrito&cover_image=true&theme=default&show_offline=false&background_color=2e2e2e&interchange=false&bar_color=53b14f&bar_color_cover=false">
+</picture>
 
 
 Current undergraduate at San Diego State University (2025).
