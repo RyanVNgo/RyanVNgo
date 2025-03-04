@@ -1,11 +1,11 @@
 ## Hi, I'm Ryan Ngo 😐
 
-<picture>
+<a href="">
   <img 
     align="right"
     width="250em"
     src="https://spotify-github-profile.kittinanx.com/api/view?uid=cheesyburrito&cover_image=true&theme=default&show_offline=false&background_color=2e2e2e&interchange=false&bar_color=53b14f&bar_color_cover=false">
-</picture>
+</a>
 
 
 Current undergraduate at San Diego State University (2025).
@@ -25,18 +25,17 @@ Outside of programming I'm also into tech, gaming, coffee, astrophotography, and
 <br>
 <sup>Feel free to contact me with the links below.</sup>
 
-[![website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://ryanvngo.github.io/)
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryanvngo/)
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ryan.v.ngo)
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vanray711@gmail.com)
+[![website](assets/website_badge.svg)](https://ryanvngo.github.io/)
+[![linkedin](assets/linkedin_badge.svg)](https://www.linkedin.com/in/ryanvngo/)
+[![instagram](assets/instagram_badge.svg)](https://www.instagram.com/ryan.v.ngo)
+[![gmail](assets/gmail_badge.svg)](mailto:vanray711@gmail.com)
 
 <p>
   <h3 align="center">
     Shit I Use
   </h3>
   <div align="center">
-    <a href="#"><img src="https://skillicons.dev/icons?i=cpp,c,python,java,go,html,css,sqlite"></a>
-    <br>
-    <a href="#"><img src="https://skillicons.dev/icons?i=github,git,neovim,vim,linux,mint,discord"></a>
+    <picture><img src="assets/tech_row_1.svg"></picture><br>
+    <picture><img src="assets/tech_row_2.svg"></picture>
   </div>
 </p>
