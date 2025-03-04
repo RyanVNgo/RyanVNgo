@@ -35,7 +35,7 @@ Outside of programming I'm also into tech, gaming, coffee, astrophotography, and
     Shit I Use
   </h3>
   <div align="center">
-    <picture><img src="assets/tech_row_1.svg"></picture><br>
-    <picture><img src="assets/tech_row_2.svg"></picture>
+    <a href=""><img src="assets/tech_row_1.svg"></a><br>
+    <a href=""><img src="assets/tech_row_2.svg"></a>
   </div>
 </p>
