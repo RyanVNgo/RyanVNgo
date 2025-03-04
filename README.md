@@ -33,7 +33,12 @@ Outside of programming I'm also into tech, gaming, coffee, astrophotography, and
     Shit I Use
   </h3>
   <div align="center">
-    <img src="https://skillicons.dev/icons?i=cpp,c,python,java,go,html,css,sqlite"><br>
-    <img src="https://skillicons.dev/icons?i=github,git,neovim,vim,linux,mint,discord">
+    <picture>
+      <img src="https://skillicons.dev/icons?i=cpp,c,python,java,go,html,css,sqlite">
+    </picture>
+    <br>
+    <picture>
+      <img src="https://skillicons.dev/icons?i=github,git,neovim,vim,linux,mint,discord">
+    </picture>
   </div>
 </p>
