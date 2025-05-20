@@ -7,20 +7,18 @@
     src="https://spotify-github-profile.kittinanx.com/api/view?uid=cheesyburrito&cover_image=true&theme=default&show_offline=false&background_color=2e2e2e&interchange=false&bar_color=53b14f&bar_color_cover=false">
 </a>
 
+I do computer stuff. Programming in my free time. Understanding obfuscated documentation in my spare time.
+Recent graduate at San Diego State University with a B.S. in Computer Science.
+Mostly interested in software/program optimization because I hate it when shits slow.
+I like programming, tech, gaming, coffee, astrophotography, F1, and K-pop. <sub>*(stan Aespa)*</sub>
 
-Current undergraduate at San Diego State University (2025).
-Recently messing around with C/C++ alongside CUDA. Also familiar with Java, Python, and a bit of Go.
-Interested in software/program optimization cause I hate it when shits slow. 
-Outside of programming I'm also into tech, gaming, coffee, astrophotography, and K-pop. <sub>*(stan Aespa)*</sub>
-
-#### Some Takes
-- learn by writing code, *read/watch/ask when you need to*
-- read the documentation, *you'll probably find what you need there*
-- write documentation, *it's not that hard and actually helpful*
-- keep it simple, *context dependent - just don't overthink it*
-- OOP is fine, *don't force it and you won't fuck it up*
-- AI is nice for asking, *not for copying*
-- Performance matters, *your computer is nice, others are probably not*
+- learn by writing code
+- read the documentation
+- write documentation
+- keep it simple
+- OOP is fine
+- AI is nice for asking
+- Performance matters
 
 <br>
 <sup>Feel free to contact me with the links below.</sup>
@@ -32,7 +30,7 @@ Outside of programming I'm also into tech, gaming, coffee, astrophotography, and
 
 <p>
   <h3 align="center">
-    Shit I Use
+    Stuff I Use
   </h3>
   <div align="center">
     <a href=""><img src="assets/tech_row_1.svg"></a><br>
