@@ -7,9 +7,9 @@
     src="https://spotify-github-profile.kittinanx.com/api/view?uid=cheesyburrito&cover_image=true&theme=default&show_offline=false&background_color=2e2e2e&interchange=false&bar_color=53b14f&bar_color_cover=false">
 </a>
 
-I do computer stuff. Programming in my free time. Understanding obfuscated documentation in my spare time.
+I do computer stuff, mostly writing code.
 Recent graduate at San Diego State University with a B.S. in Computer Science.
-Mostly interested in software/program optimization because I hate it when shits slow.
+Interested in software/program optimization because I hate it when shits slow.
 I like programming, tech, gaming, coffee, astrophotography, F1, and K-pop. <sub>*(stan Aespa)*</sub>
 
 - learn by writing code
