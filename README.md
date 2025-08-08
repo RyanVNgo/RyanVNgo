@@ -31,6 +31,7 @@ Outside of programming I like tech, gaming, coffee, astrophotography, F1🚜, an
 [![linkedin](assets/linkedin_badge.svg)](https://www.linkedin.com/in/ryanvngo/)
 [![gmail](assets/gmail_badge.svg)](mailto:vanray711@gmail.com)
 
+<br><br><br><br><br>
 <p>
   <h3 align="center">
     Stuff I Use
