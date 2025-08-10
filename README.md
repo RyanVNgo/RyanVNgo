@@ -10,7 +10,7 @@
 I do computer stuff, mostly writing code, documentation is nice too.
 
 A recent Computer Science graduate from San Diego State University interested in building
-high-performance, efficient software through clean, maintainable, well-documented code.
+high-performance, high-quality software with clean, maintainable, well-documented code.
 
 Outside of programming I like tech, gaming, coffee, astrophotography, F1🚜, and K-pop. <sub>*(stan Aespa)*</sub>
 
