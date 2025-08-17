@@ -19,7 +19,7 @@ Outside of programming I like tech, gaming, coffee, astrophotography, F1🚜, an
 -->
 
 A recent Comp-Sci graduate from San Diego State University that likes writing software, especially for projects
-or systems that aim to benefit people, our world, and our understanding of everything around us.
+or systems that aim to benefit people, our world, or our understanding of everything around us.
 
 I'm a strong proponent for software craftsmanship. The type that emphasizes clean code, thorough documentation, and
 resiliency to change.
