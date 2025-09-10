@@ -18,8 +18,8 @@ high-performance, high-quality software with clean, maintainable, well-documente
 Outside of programming I like tech, gaming, coffee, astrophotography, F1🚜, and K-pop. <sub>*(stan Aespa)*</sub>
 -->
 
-A recent Comp-Sci graduate from San Diego State University that likes writing software, especially for projects
-or systems that aim to benefit people, our world, or our understanding of everything around us.
+A recent Comp-Sci graduate from San Diego State University interested in building high-quality software tools
+and solutions with the goal of expanding human knowledge and enhancing quality of life.
 
 I'm a strong proponent for software craftsmanship. The type that emphasizes clean code, thorough documentation, and
 resiliency to change.
