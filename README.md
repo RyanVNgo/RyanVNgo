@@ -1,12 +1,11 @@
 # Hey, I'm Ryan! 👋
 
-A recent Comp-Sci graduate from San Diego State University interested in building software that advances scientific
-research and discovery.
+A recent Comp-Sci graduate from San Diego State University.
 
-Outside of programming I like tech, Formula 1, gaming, astrophotography, and K-pop. <sub>*(stan Aespa)*</sub>
+Outside of software: Formula 1, tech, astronomy, and K-pop. <sub>*(stan NMIXX)*</sub>
 
-If you want to read more about me and maybe take a look at some articles I've written, then I encourage you to go
-checkout my [personal website](https://ryanvngo.github.io/). Otherwise, thanks for the visit!
+If you want to know more about me, my projects, or some things I've written, then you can
+visit my [personal website](https://ryanvngo.github.io/) to learn more.
 
 ## Tech/Tools I Use
 
