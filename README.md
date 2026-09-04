@@ -1,6 +1,6 @@
-# Hey, I'm Ryan! 👋
+# Hi, I'm Ryan Ngo
 
-A recent Comp-Sci graduate from San Diego State University.
+I make software.
 
 Outside of software: Formula 1, tech, astronomy, and K-pop. <sub>*(stan NMIXX)*</sub>
 
